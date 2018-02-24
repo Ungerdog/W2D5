@@ -22,3 +22,9 @@ div {
 p {
   background-color: #7fdbff;
 }
+
+p:after {
+  content:"Let the ruling classes tremble at a communist revolution. The proletarians have nothing to lose but their chains. They have a world to win. Workingmen of all countries, unite!";
+  height: auto;
+  width: auto;
+}
